@@ -1,2 +1,2 @@
 # Zathura
- ZAthura config
+ Zathura config
